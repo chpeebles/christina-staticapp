@@ -1,4 +1,10 @@
-# ICJ Project Rig
+# Christina's Static Apps assignment
+
+By Christina Peebles, Intro to Coding for Journalists class
+
+This repo is a class assignment on static apps. It is due April 16, 2021.
+
+## ICJ Project Rig
 
 This project rig was developed for the [Intro to Coding for Journalists](https://github.com/utdata/icj-class) class taught by Christian McDonald, Assistant Professor of Practice at the School of Journalism, Moody College of Communication, University of Texas at Austin.
 
